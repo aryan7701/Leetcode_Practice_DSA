@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Binary Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->

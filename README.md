@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0890-lemonade-change) |
+| [1240-stone-game-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2645-pass-the-pillow) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1240-stone-game-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->

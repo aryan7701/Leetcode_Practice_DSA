@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2411-spiral-matrix-iv) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0664-strange-printer) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Stack
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Matrix
 |  |
@@ -138,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->

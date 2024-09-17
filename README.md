@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0664-strange-printer) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0870-magic-squares-in-grid) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Matrix

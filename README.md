@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1240-stone-game-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1435-xor-queries-of-a-subarray) |
 ## Game Theory
@@ -156,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->

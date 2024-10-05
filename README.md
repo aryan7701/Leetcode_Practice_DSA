@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0731-my-calendar-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

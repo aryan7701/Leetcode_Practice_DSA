@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1240-stone-game-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
 | ------- |

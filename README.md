@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2586-longest-square-streak-in-an-array) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -203,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0567-permutation-in-string) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->

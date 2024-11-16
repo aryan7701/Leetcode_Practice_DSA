@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -206,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/0567-permutation-in-string) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryan7701/Leetcode_Practice_DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
